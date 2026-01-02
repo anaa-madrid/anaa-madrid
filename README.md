@@ -1,4 +1,5 @@
-¡Hola! 👋 Soy Ana Madrid Serrano, experta en **Inteligencia Artificial**, fuertemente orientada a la innovación y con sólida experiencia en **Gemelos Digitales**.  
-Me especializo en el desarrollo y optimización de modelos de **Machine Learning** y **Deep Learning**, incluyendo **LLMs, Agentes de IA, NLP y Visión por Computador**. Además, tengo experiencia en la creación y simulación de Gemelos Digitales y en la gestión de proyectos de I+D a nivel nacional e internacional.  
+Hello! 👋 I’m Ana Madrid Serrano, an **Artificial Intelligence expert**, strongly oriented towards innovation, with solid experience in **Digital Twins**.  
+I specialize in the development and optimization of **Machine Learning** and **Deep Learning** models, including **LLMs, AI Agents, NLP, and Computer Vision**. I also have experience in creating and simulating Digital Twins, as well as managing R&D projects at both national and international levels.
 
-Este repositorio contiene una colección de **proyectos de Inteligencia Artificial** que he desarrollado para aprender, experimentar y demostrar mis habilidades técnicas. Cada proyecto incluye notebooks, scripts, documentación y resultados, mostrando desde prototipos de modelos hasta aplicaciones prácticas de IA.
+This repository contains a collection of **Artificial Intelligence projects** I have developed to learn, experiment, and demonstrate my technical skills. Each project includes notebooks, scripts, documentation, and results, showcasing everything from model prototypes to practical AI applications.
+
